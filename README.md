@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hiya!
 
+Congrats, you found my GitHub. I’m a dev, student, and chronic system fiddler. If it runs code, I probably tried to modify it at 2am.
+
+These repos are my build log: experiments, questionable ideas that escalated, and projects that actually made it to the finish line. Some overcooked, some speedrun builds, but all real work.
+
+Scroll around. There’s always something brewing, breaking, or getting rebuilt better.
 <!--
 **ItzCobaltboy/ItzCobaltboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
